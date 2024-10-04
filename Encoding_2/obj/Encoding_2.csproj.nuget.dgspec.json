@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project1\\Encoding_2\\Encoding_2.csproj": {}
+    "D:\\Project1\\Encoding_2\\Encoding_2.csproj": {}
   },
   "projects": {
-    "d:\\Project1\\Encoding_2\\Encoding_2.csproj": {
+    "D:\\Project1\\Encoding_2\\Encoding_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project1\\Encoding_2\\Encoding_2.csproj",
+        "projectUniqueName": "D:\\Project1\\Encoding_2\\Encoding_2.csproj",
         "projectName": "Encoding_2",
-        "projectPath": "d:\\Project1\\Encoding_2\\Encoding_2.csproj",
+        "projectPath": "D:\\Project1\\Encoding_2\\Encoding_2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\Project1\\Encoding_2\\obj\\",
+        "outputPath": "D:\\Project1\\Encoding_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
