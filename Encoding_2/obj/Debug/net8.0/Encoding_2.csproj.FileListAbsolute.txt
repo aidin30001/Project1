@@ -1,0 +1,14 @@
+d:\Project1\Encoding_2\bin\Debug\net8.0\Encoding_2.exe
+d:\Project1\Encoding_2\bin\Debug\net8.0\Encoding_2.deps.json
+d:\Project1\Encoding_2\bin\Debug\net8.0\Encoding_2.runtimeconfig.json
+d:\Project1\Encoding_2\bin\Debug\net8.0\Encoding_2.dll
+d:\Project1\Encoding_2\bin\Debug\net8.0\Encoding_2.pdb
+d:\Project1\Encoding_2\obj\Debug\net8.0\Encoding_2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Project1\Encoding_2\obj\Debug\net8.0\Encoding_2.AssemblyInfoInputs.cache
+d:\Project1\Encoding_2\obj\Debug\net8.0\Encoding_2.AssemblyInfo.cs
+d:\Project1\Encoding_2\obj\Debug\net8.0\Encoding_2.csproj.CoreCompileInputs.cache
+d:\Project1\Encoding_2\obj\Debug\net8.0\Encoding_2.dll
+d:\Project1\Encoding_2\obj\Debug\net8.0\refint\Encoding_2.dll
+d:\Project1\Encoding_2\obj\Debug\net8.0\Encoding_2.pdb
+d:\Project1\Encoding_2\obj\Debug\net8.0\Encoding_2.genruntimeconfig.cache
+d:\Project1\Encoding_2\obj\Debug\net8.0\ref\Encoding_2.dll
